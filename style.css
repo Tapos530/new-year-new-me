@@ -116,6 +116,9 @@ body {
 
 /* previous section end  */
 /* plans section start  */
+.plans-section{
+    margin-bottom: 100px;
+}
 .plans-section>h1 {
     text-align: center;
     font-size: 40px;
