@@ -60,8 +60,58 @@ body {
     font-weight: 600;
 
 }
-.btn-box{
+
+.btn-box {
     text-align: end;
 }
 
 /* header section end  */
+
+/* main section start  */
+/* previous section start  */
+.previous-year-section {
+    display: flex;
+    background: #FFF;
+    justify-content: space-between;
+    height: 100vh;
+}
+
+.previous-photo-box {
+    width: 50%;
+    margin-left: 10%;
+
+}
+
+.previous-content-box {
+    width: 30%;
+    align-self: center;
+    padding-right: 10%;
+
+}
+
+.previous-content-box>h1 {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.previous-content-box>p {
+    color: #444343;
+    font-size: 16px;
+    margin: 20px 0px 16px;
+    line-height: 26px;
+}
+
+.content-check-box>p {
+    color:#444343;
+    font-size: 16px;
+    line-height: 26px;
+    margin: 8px 0px;
+}
+.content-check-box>p> i {
+    color:#16D887;
+    margin-right: 5px;
+}
+
+/* previous section end  */
+/* main section end  */
